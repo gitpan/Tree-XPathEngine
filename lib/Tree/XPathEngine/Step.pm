@@ -1,9 +1,8 @@
 # $id$
-# $Id: /tree-xpathengine/trunk/lib/Tree/XPathEngine/Step.pm 17 2006-02-12T08:00:01.814064Z mrodrigu  $
+# $Id: /tree-xpathengine/trunk/lib/Tree/XPathEngine/Step.pm 25 2006-02-15T15:34:11.453583Z mrodrigu  $
 
 package Tree::XPathEngine::Step;
 use Tree::XPathEngine;
-use Tree::XPathEngine::Node;
 use strict;
 
 # constants used to describe the test part of a step

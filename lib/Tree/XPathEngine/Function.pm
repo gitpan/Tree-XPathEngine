@@ -1,11 +1,10 @@
-# $Id: /tree-xpathengine/trunk/lib/Tree/XPathEngine/Function.pm 17 2006-02-12T08:00:01.814064Z mrodrigu  $
+# $Id: /tree-xpathengine/trunk/lib/Tree/XPathEngine/Function.pm 26 2006-02-15T15:46:06.515200Z mrodrigu  $
 
 package Tree::XPathEngine::Function;
 use Tree::XPathEngine::Number;
 use Tree::XPathEngine::Literal;
 use Tree::XPathEngine::Boolean;
 use Tree::XPathEngine::NodeSet;
-use Tree::XPathEngine::Node::Attribute;
 use strict;
 
 sub new {

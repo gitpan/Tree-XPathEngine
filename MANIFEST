@@ -11,6 +11,7 @@ lib/Tree/XPathEngine/Literal.pm
 lib/Tree/XPathEngine/LocationPath.pm
 lib/Tree/XPathEngine/NodeSet.pm
 lib/Tree/XPathEngine/Number.pm
+lib/Tree/XPathEngine/Root.pm
 lib/Tree/XPathEngine/Step.pm
 lib/Tree/XPathEngine/Variable.pm
 t/00-load.t

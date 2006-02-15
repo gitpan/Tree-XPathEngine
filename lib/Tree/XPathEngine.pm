@@ -1,4 +1,4 @@
-#$Id: /tree-xpathengine/trunk/lib/Tree/XPathEngine.pm 19 2006-02-13T10:40:57.804258Z mrodrigu  $
+#$Id: /tree-xpathengine/trunk/lib/Tree/XPathEngine.pm 25 2006-02-15T15:34:11.453583Z mrodrigu  $
 package Tree::XPathEngine;
 
 use warnings;
@@ -6,7 +6,7 @@ use strict;
 
 use vars qw($VERSION $AUTOLOAD $revision);
 
-$VERSION = '0.04';
+$VERSION = '0.05';
 $Tree::XPathEngine::DEBUG = 0;
 
 use vars qw/
